@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afranklin55
+- 👋 Hi, I’m @afranklin55 AKA Gris!
 - 👀 I’m interested in learning computer programming
 - 🌱 I’m currently learning Python, HTML, and SQL
 - 💞️ I’m still learning.  I'm not sure how much help I'd be on a collaborative project but if someone wants to reach out I'd love to!
